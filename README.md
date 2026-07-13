@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<a href="https://github.com/HeshXonline">
+<a href="https://github.com/heshannethmina">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3400&pause=900&color=D97706&center=true&vCenter=true&width=640&height=44&lines=I+build+real+software%2C+not+just+demos.;Full-stack+with+Next.js+%2B+FastAPI;Putting+LLMs+to+actual+engineering+work" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=HeshXonline&label=Profile%20Views&color=D97706&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=heshannethmina&label=Profile%20Views&color=D97706&style=flat-square" />
 <img src="https://img.shields.io/badge/Based%20in-Colombo%2C%20Sri%20Lanka-D97706?style=flat-square" />
 
 </div>
@@ -81,13 +81,13 @@ Full-featured CRM-style dashboard.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HeshXonline&bg_color=FFFBF5&color=B45309&line=D97706&point=44403C&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heshannethmina&bg_color=FFFBF5&color=B45309&line=D97706&point=44403C&area=true&hide_border=true" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HeshXonline&show_icons=true&hide_border=true&bg_color=FFFBF5&title_color=B45309&icon_color=D97706&text_color=44403C&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=heshannethmina&show_icons=true&hide_border=true&bg_color=FFFBF5&title_color=B45309&icon_color=D97706&text_color=44403C&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshXonline&layout=compact&hide_border=true&bg_color=FFFBF5&title_color=B45309&text_color=44403C"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshannethmina&layout=compact&hide_border=true&bg_color=FFFBF5&title_color=B45309&text_color=44403C"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HeshXonline&hide_border=true&background=FFFBF5&stroke=EAE3D6&ring=D97706"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heshannethmina&hide_border=true&background=FFFBF5&stroke=EAE3D6&ring=D97706"/>
 
 </div>
 
@@ -95,7 +95,7 @@ Full-featured CRM-style dashboard.
 
 ## 🤝 Connect
 
-<a href="https://github.com/HeshXonline"><img src="https://img.shields.io/badge/GitHub-HeshXonline-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/heshannethmina"><img src="https://img.shields.io/badge/GitHub-heshannethmina-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/heshan-nethmina-5b9824277"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:heshannetmina169@gmail.com"><img src="https://img.shields.io/badge/Email-heshannetmina169@gmail.com-D97706?style=flat-square&logo=gmail&logoColor=white"/></a>
 
