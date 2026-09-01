@@ -173,39 +173,11 @@ AI-powered study tool with content generation and model selection.
 
 ---
 
-## GitHub Activity
+## Currently
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heshannethmina&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heshannethmina&theme=default" width="98%" alt="GitHub profile summary"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshannethmina&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshannethmina&theme=default" width="48%" alt="Top languages by repository"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heshannethmina&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heshannethmina&theme=default" width="48%" alt="Top languages by commit"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heshannethmina&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heshannethmina&theme=default" width="48%" alt="Contribution stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heshannethmina&theme=github_dark&utcOffset=5.5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heshannethmina&theme=default&utcOffset=5.5" width="48%" alt="Most productive hours"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=heshannethmina&hide_border=true&background=00000000&stroke=30363D&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-  <img src="https://streak-stats.demolab.com?user=heshannethmina&hide_border=true&background=00000000&stroke=EAE3D6&ring=D97706&fire=D97706&currStreakLabel=B45309&sideLabels=44403C&currStreakNum=44403C&sideNums=44403C&dates=78716C" alt="Contribution streak"/>
-</picture>
-
-</div>
+- Scaling the **Sinhala emotional-speech corpus** from one verified episode to the remaining 200 — roughly 52 hours of clean speech projected
+- Training the **GNN + CNN fusion model** the Sri Lanka flood dataset was built for
+- Hardening **SyncR** — moving Judge0 onto a host that can actually sandbox submissions
 
 ---
 
