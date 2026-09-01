@@ -173,11 +173,34 @@ AI-powered study tool with content generation and model selection.
 
 ---
 
-## Currently
+## GitHub Activity
 
-- Scaling the **Sinhala emotional-speech corpus** from one verified episode to the remaining 200 — roughly 52 hours of clean speech projected
-- Training the **GNN + CNN fusion model** the Sri Lanka flood dataset was built for
-- Hardening **SyncR** — moving Judge0 onto a host that can actually sandbox submissions
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heshannethmina&name=Heshan%20Nethmina&theme=gruvbox&bg_color=00000000&title_color=F59E0B&text_color=C9D1D9&icon_color=F59E0B&chart_color=F59E0B&border_color=30363D&animation=draw" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heshannethmina&name=Heshan%20Nethmina&theme=default&bg_color=00000000&title_color=B45309&text_color=44403C&icon_color=D97706&chart_color=D97706&border_color=E7E0D4&animation=draw" width="700" alt="Contributions over the last year"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshannethmina&exclude=html,css&theme=gruvbox&bg_color=00000000&title_color=F59E0B&text_color=C9D1D9&icon_color=F59E0B&chart_color=F59E0B&border_color=30363D&animation=draw" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshannethmina&exclude=html,css&theme=default&bg_color=00000000&title_color=B45309&text_color=44403C&icon_color=D97706&chart_color=D97706&border_color=E7E0D4&animation=draw" width="340" alt="Top languages by repository"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heshannethmina&exclude=html,css&theme=gruvbox&bg_color=00000000&title_color=F59E0B&text_color=C9D1D9&icon_color=F59E0B&chart_color=F59E0B&border_color=30363D&animation=draw" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heshannethmina&exclude=html,css&theme=default&bg_color=00000000&title_color=B45309&text_color=44403C&icon_color=D97706&chart_color=D97706&border_color=E7E0D4&animation=draw" width="340" alt="Top languages by commit"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heshannethmina&utcOffset=5.5&theme=gruvbox&bg_color=00000000&title_color=F59E0B&text_color=C9D1D9&icon_color=F59E0B&chart_color=F59E0B&border_color=30363D&animation=draw" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heshannethmina&utcOffset=5.5&theme=default&bg_color=00000000&title_color=B45309&text_color=44403C&icon_color=D97706&chart_color=D97706&border_color=E7E0D4&animation=draw" width="340" alt="Commits by hour of day"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heshannethmina&hide_logo=true&theme=gruvbox&bg_color=00000000&title_color=F59E0B&text_color=C9D1D9&icon_color=F59E0B&chart_color=F59E0B&border_color=30363D&animation=draw" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heshannethmina&hide_logo=true&theme=default&bg_color=00000000&title_color=B45309&text_color=44403C&icon_color=D97706&chart_color=D97706&border_color=E7E0D4&animation=draw" width="340" alt="Contribution stats"/>
+</picture>
+
+</div>
 
 ---
 
