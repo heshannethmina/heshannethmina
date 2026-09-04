@@ -78,7 +78,7 @@ Two halves of the same problem: building the emotion-labelled Sinhala speech cor
 - Every open-weight Sinhala ASR checkpoint was benchmarked and failed on this domain; the transcription decision is documented against measured output, not model cards
 - 201 episodes / 82 hours available, with ~52 hours of clean speech projected
 
-**The TTS** — **XTTS-v2** fine-tuned on the corpus, with **F5-TTS** as the comparison baseline.
+**The TTS** — **XTTS-v2** fine-tuned on the corpus, with **ViTS** as the comparison baseline.
 
 - XTTS-v2 is the primary model: multilingual pretraining plus speaker conditioning means the corpus is spent on Sinhala prosody and emotion rather than on learning speech from scratch
 - Emotion is carried by reference audio at inference, so one voice can be re-conditioned across emotions instead of training a separate model per emotion
