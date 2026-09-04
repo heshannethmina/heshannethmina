@@ -48,7 +48,8 @@ An interviewer opens a room and sends a link; the candidate starts typing. Both 
 - Code execution runs inside isolated **Judge0** containers, never in the application process
 - Next.js App Router + Monaco on the front end, PostgreSQL for users, sessions and rooms
 
-<sub>Internship project · RAD Lanka</sub>
+<a href="https://demo-syncr.vercel.app/"><img src="https://img.shields.io/badge/▶_Live_demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
 
 ---
 
