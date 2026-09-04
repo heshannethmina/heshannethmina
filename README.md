@@ -65,16 +65,24 @@ A multimodal flood early-warning dataset for Sri Lanka, plus a DNN baseline trai
 
 ---
 
-### 🎙️ [Emotional Sinhala Speech Dataset](https://github.com/DSEgrp18/Dataset-creation-withEmotion)
+### 🎙️ [Emotion-Labelled Sinhala Speech Dataset & Expressive Sinhala TTS](https://github.com/DSEgrp18/Dataset-creation-withEmotion)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/XTTS%20%C2%B7%20F5--TTS-10B981?style=flat-square"/> <img src="https://img.shields.io/badge/Speech%20Processing-6B7280?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/XTTS--v2-10B981?style=flat-square"/> <img src="https://img.shields.io/badge/F5--TTS-14B8A6?style=flat-square"/> <img src="https://img.shields.io/badge/Speech%20Processing-6B7280?style=flat-square"/>
 
-No public Sinhala emotional-speech corpus exists, so we are building one: sentence-level clips with transcripts, mined from SLBC radio dramas, for training expressive TTS.
+Two halves of the same problem: building the emotion-labelled Sinhala speech corpus that does not exist, then using it to train a Sinhala text-to-speech voice that actually sounds human — natural prosody and audible emotion, not flat read-speech.
+
+**The dataset** — sentence-level clips with transcripts and emotion labels, mined from SLBC radio dramas.
 
 - Radio drama is the source on purpose — shouting, crying, whispering and arguing are exactly what read-speech corpora lack
 - **64.2% usable yield** per episode against an original projection of 10–20%, with **zero overlapping clips**, asserted at the end of every run
 - Every open-weight Sinhala ASR checkpoint was benchmarked and failed on this domain; the transcription decision is documented against measured output, not model cards
 - 201 episodes / 82 hours available, with ~52 hours of clean speech projected
+
+**The TTS** — **XTTS-v2** fine-tuned on the corpus, with **ViTS** as the comparison baseline.
+
+- XTTS-v2 is the primary model: multilingual pretraining plus speaker conditioning means the corpus is spent on Sinhala prosody and emotion rather than on learning speech from scratch
+- Emotion is carried by reference audio at inference, so one voice can be re-conditioned across emotions instead of training a separate model per emotion
+- Naturalness is the target metric — MOS listening tests against the baseline, with the corpus and the fine-tuning recipe released together so the numbers can be reproduced
 
 <sub>Group project · DSE Group 18</sub>
 
