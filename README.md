@@ -53,6 +53,20 @@ An interviewer opens a room and sends a link; the candidate starts typing. Both 
 
 ---
 
+### ♿ [Sinhala Accessible Reader](https://github.com/DSEgrp18/Web-Page)
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Accessibility-WCAG%202.2%20AA-005A9C?style=flat-square"/> <img src="https://img.shields.io/badge/Sinhala%20TTS-F59E0B?style=flat-square"/> <img src="https://img.shields.io/badge/RAG%20%C2%B7%20pgvector-8B5CF6?style=flat-square"/>
+
+An accessible Sinhala PDF reader and study assistant for blind and low-vision readers. Users can upload a document, navigate it by page or chapter, and listen to its contents entirely by keyboard and screen reader.
+
+- Extracts and decodes Sinhala PDF text, including legacy FM-Abhaya fonts, while flagging content that cannot be read reliably
+- Designed around keyboard and screen-reader navigation, with WCAG 2.2 AA as the accessibility target
+- Planned document-grounded question answering cites the source pages instead of presenting unsupported answers
+
+<sub>Group project · DSE Group 18</sub>
+
+---
+
 ### 🌊 [Sri Lanka Flood Dataset & Early-Warning Model](https://github.com/heshannethmina/Srilanka-Flood-Data-Set-Creation)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Deep%20Learning-EF4444?style=flat-square"/> <img src="https://img.shields.io/badge/Sentinel--1%20SAR-0B3D91?style=flat-square"/> <img src="https://img.shields.io/badge/GloFAS%20%C2%B7%20ERA5%20%C2%B7%20NASA%20POWER-6B7280?style=flat-square"/>
@@ -98,20 +112,6 @@ Scanner output is a flat, noisy list with generic severities and no fix guidance
 - **Re-prioritizes rather than relabels**: escalates an exposed `.env` above the scanner's own severity, with a stated reason
 - **Measured, not vibes** — an eval harness scores priority accuracy and false-positive precision/recall against a labelled key; every model call logs tokens, latency and cost
 - Defensive by design: it explains how to fix findings, and never generates exploits or payloads
-
----
-
-### 📊 [LeadDesk — Multi-Tenant Lead Tracking CRM](https://github.com/heshannethmina/leaddesk)
-
-<img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Vite%205-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-
-A lightweight CRM for small businesses. Owners log inquiries arriving across WhatsApp, Instagram, Facebook, phone and walk-in, then move each one through **New → Contacted → Quoted → Won / Lost** with quick-reply templates and a metrics dashboard.
-
-- Multi-tenancy enforced in the database with **Supabase Row Level Security**, not in application code
-- **Stripe** billing with plan-based usage limits and team seats
-- Tailwind v4 with OKLCH design tokens, Recharts dashboards, Supabase Edge Functions
-
-<a href="https://leaddesk-orpin.vercel.app"><img src="https://img.shields.io/badge/▶_Live_demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 ---
 
@@ -186,28 +186,9 @@ AI-powered study tool with content generation and model selection.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heshannethmina&name=Heshan%20Nethmina&theme=gruvbox&bg_color=00000000&title_color=F59E0B&text_color=C9D1D9&icon_color=F59E0B&chart_color=F59E0B&border_color=30363D&animation=draw" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heshannethmina&name=Heshan%20Nethmina&theme=default&bg_color=00000000&title_color=B45309&text_color=44403C&icon_color=D97706&chart_color=D97706&border_color=E7E0D4&animation=draw" width="700" alt="Contributions over the last year"/>
-</picture>
+<a href="https://github.com/heshannethmina?tab=overview#year-list-container"><img src="https://img.shields.io/badge/View%20my%20latest%20GitHub%20activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Heshan Nethmina's GitHub activity"/></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshannethmina&exclude=html,css&theme=gruvbox&bg_color=00000000&title_color=F59E0B&text_color=C9D1D9&icon_color=F59E0B&chart_color=F59E0B&border_color=30363D&animation=draw" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshannethmina&exclude=html,css&theme=default&bg_color=00000000&title_color=B45309&text_color=44403C&icon_color=D97706&chart_color=D97706&border_color=E7E0D4&animation=draw" width="340" alt="Top languages by repository"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heshannethmina&exclude=html,css&theme=gruvbox&bg_color=00000000&title_color=F59E0B&text_color=C9D1D9&icon_color=F59E0B&chart_color=F59E0B&border_color=30363D&animation=draw" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heshannethmina&exclude=html,css&theme=default&bg_color=00000000&title_color=B45309&text_color=44403C&icon_color=D97706&chart_color=D97706&border_color=E7E0D4&animation=draw" width="340" alt="Top languages by commit"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heshannethmina&utcOffset=5.5&theme=gruvbox&bg_color=00000000&title_color=F59E0B&text_color=C9D1D9&icon_color=F59E0B&chart_color=F59E0B&border_color=30363D&animation=draw" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heshannethmina&utcOffset=5.5&theme=default&bg_color=00000000&title_color=B45309&text_color=44403C&icon_color=D97706&chart_color=D97706&border_color=E7E0D4&animation=draw" width="340" alt="Commits by hour of day"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heshannethmina&hide_logo=true&theme=gruvbox&bg_color=00000000&title_color=F59E0B&text_color=C9D1D9&icon_color=F59E0B&chart_color=F59E0B&border_color=30363D&animation=draw" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heshannethmina&hide_logo=true&theme=default&bg_color=00000000&title_color=B45309&text_color=44403C&icon_color=D97706&chart_color=D97706&border_color=E7E0D4&animation=draw" width="340" alt="Contribution stats"/>
-</picture>
+<sub>Activity is shown directly on GitHub, so this profile stays reliable when third-party statistics services are rate limited.</sub>
 
 </div>
 
