@@ -28,7 +28,7 @@ I learn by building. I'd rather ship one working system and understand every lay
 |  |  |
 | :-- | :-- |
 | 🎓 **University** | University of Moratuwa, Sri Lanka |
-| 📚 **Programme** | B.Sc. Computer Science & Engineering — 3rd Year |
+| 📚 **Programme** | B.Sc. Honours in Computer Science & Engineering — 3rd Year |
 | 🎯 **Focus** | Full-stack systems · AI / LLM engineering |
 | 🧱 **Interests** | Distributed systems · Clean architecture · Applied ML |
 | 💼 **Open to** | Software & AI engineering internships |
